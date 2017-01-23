@@ -1,4 +1,5 @@
 # hello-world
+Beginning repository for ideas, experimentation, etc.
 
 Hello, fellow creatives!
 I am a programmer analyst and enjoy learning new things in the vast field of technology.
